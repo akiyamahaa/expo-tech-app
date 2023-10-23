@@ -1,7 +1,5 @@
 # CodeCrafters
-# Your App Name
 
-<!-- ![App Logo](images/logo.png) -->
 <img src="images/logo.png" width="256" alt='logo'>
 
 ## Table of Contents
