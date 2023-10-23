@@ -28,8 +28,6 @@ The CodeCrafters app makes it easy for children to grasp programming concepts an
 
 ## Getting Started
 
-Provide instructions on how to set up and run your app. Include information on the required dependencies, environment setup, and any other prerequisites.
-
 ### Prerequisites
 
 - Node.Js: https://nodejs.org/en
