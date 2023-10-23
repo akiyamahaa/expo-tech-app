@@ -4,7 +4,6 @@
 
 ## Table of Contents
 - [CodeCrafters](#codecrafters)
-- [Your App Name](#your-app-name)
   - [Table of Contents](#table-of-contents)
   - [About](#about)
   - [Features](#features)
