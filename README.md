@@ -1,7 +1,8 @@
 # CodeCrafters
 # Your App Name
 
-![App Logo](images/logo.png) (if applicable)
+<!-- ![App Logo](images/logo.png) -->
+<img src="images/logo.png" width="256" alt='logo'>
 
 ## Table of Contents
 - [CodeCrafters](#codecrafters)
@@ -25,8 +26,9 @@ The CodeCrafters app makes it easy for children to grasp programming concepts an
 
 ## Screenshots
 
-![Screenshot 1](images/home.png)
-![Screenshot 2](images/quiz.png)
+<img src="images/home.png" width="256" alt='screen1'>
+<img src="images/quiz.png" width="256" alt='screen1'>
+
 
 ## Getting Started
 
