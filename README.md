@@ -1,18 +1,18 @@
 # CodeCrafters
 # Your App Name
 
-![App Logo](link-to-your-app-logo.png) (if applicable)
+![App Logo](images/logo.png) (if applicable)
 
 ## Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [CodeCrafters](#codecrafters)
+- [Your App Name](#your-app-name)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [Features](#features)
+  - [Screenshots](#screenshots)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
 
 ## About
 
@@ -25,8 +25,8 @@ The CodeCrafters app makes it easy for children to grasp programming concepts an
 
 ## Screenshots
 
-![Screenshot 1](link-to-screenshot-1.png)
-![Screenshot 2](link-to-screenshot-2.png)
+![Screenshot 1](images/home.png)
+![Screenshot 2](images/quiz.png)
 
 ## Getting Started
 
@@ -42,7 +42,7 @@ Provide instructions on how to set up and run your app. Include information on t
 
 - Clone the repository to your local machine
 - Install dependencies using npm or yarn
-- Run the app using `npm start` or another suitable command
+- Run the app using `yarn start` or another suitable command
 
 ```bash
 git clone https://github.com/akiyamahaa/expo-tech-app.git
