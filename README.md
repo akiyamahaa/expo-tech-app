@@ -3,8 +3,7 @@
 <img src="images/logo.png" width="256" alt='logo'>
 
 ## Table of Contents
-- [CodeCrafters](#codecrafters)
-  - [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
   - [About](#about)
   - [Features](#features)
   - [Screenshots](#screenshots)
