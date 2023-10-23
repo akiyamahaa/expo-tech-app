@@ -36,7 +36,7 @@ const CustomBtn = (props: Props) => {
           colors={disabled ? ["#fff", "#cecece"] : ["#79FBFD", "#57B7E6"]}
           style={styles.gradientColor}
         >
-          <Text fontSize={16} color="text.700" fontWeight={"bold"}>
+          <Text fontSize={16} color="text.100" fontWeight={"bold"}>
             {text}
           </Text>
         </LinearGradient>

@@ -14,13 +14,12 @@ const Home = (props: Props) => {
     <MainBackground>
       <Box flex={1} justifyContent={"center"} alignItems={"center"}>
         <Image
-          source={require("../../assets/image/logo/logo.jpg")}
+          source={require("../../assets/logo.png")}
           alt="LOGO"
-          w={"40%"}
-          resizeMode="cover"
+          resizeMode="contain"
           h={40}
         />
-        <VStack width={"60%"} mt={4} space={4}>
+        <VStack width={"60%"} mt={12} space={4}>
           <CustomBtn
             text={"Bài học"}
             handleBtn={() => navigation.navigate("Lesson")}

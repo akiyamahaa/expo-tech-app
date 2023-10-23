@@ -12,6 +12,7 @@ import AnswerQuizz from "../screens/Quizz/AnswerQuizz";
 import Puzzle from "../screens/Puzzle";
 import LessonVideo from "../screens/LessonVideo";
 import Home from "../screens/Home";
+import { StatusBar } from "expo-status-bar";
 
 const Stack = createNativeStackNavigator<RootStackParams>();
 
@@ -19,6 +20,7 @@ const Root = () => {
   return (
     <>
       <LoadingOverlay />
+      <StatusBar style="light" />
       <NavigationContainer>
         <Stack.Navigator
           screenOptions={{
