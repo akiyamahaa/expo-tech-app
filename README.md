@@ -25,10 +25,10 @@ The CodeCrafters app makes it easy for children to grasp programming concepts an
 
 ## Screenshots
 
-<div style="display:flex">
-<img src="images/home.png" width="256" alt='screen1'>
-<img src="images/quiz.png" width="256" alt='screen1'>
-</div>
+
+<img src="images/home.png" width="128" alt='screen1'>
+<img src="images/quiz.png" width="128" alt='screen1'>
+
 
 
 ## Getting Started
