@@ -12,7 +12,7 @@ export interface HomeHeaderProps {
 const HomeHeader = (props: HomeHeaderProps) => {
   const navigation = useNavigation();
   return (
-    <Column bgColor={colors.blurBackground} mb={4} pt={16} pb={4}>
+    <Column bgColor={colors.blurBackground} mb={4} safeAreaTop pb={4}>
       <HStack alignItems={"center"} justifyContent={"space-between"} px={2}>
         <TouchableOpacity onPress={() => navigation.goBack()}>
           <ArrowLeft2 size="32" color="white" />
